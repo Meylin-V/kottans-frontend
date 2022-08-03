@@ -10,3 +10,6 @@ practice
 * [https://github.com/Meylin-V/kottans-frontend/blob/main/task1_git_github/ex2.png] 
 
 interesting interactive tasks for studing git
+
+
+### Task2 Linux, Command Line, HTTP Tools
