@@ -18,3 +18,5 @@ quizes
 * [quiz 2]: https://github.com/Meylin-V/kottans-frontend/blob/main/task2_linux/q1.png
 * [quiz 3]: https://github.com/Meylin-V/kottans-frontend/blob/main/task2_linux/q1.png
 * [quiz 4]: https://github.com/Meylin-V/kottans-frontend/blob/main/task2_linux/q1.png
+
+i have alreadu a little bit experience with linux so it was not difficult, but it helps me to refresh my knowledges
