@@ -13,3 +13,8 @@ interesting interactive tasks for studing git
 
 
 ### Task2 Linux, Command Line, HTTP Tools
+quizes
+* [quiz 1]: https://github.com/Meylin-V/kottans-frontend/blob/main/task2_linux/q1.png
+* [quiz 2]: https://github.com/Meylin-V/kottans-frontend/blob/main/task2_linux/q1.png
+* [quiz 3]: https://github.com/Meylin-V/kottans-frontend/blob/main/task2_linux/q1.png
+* [quiz 4]: https://github.com/Meylin-V/kottans-frontend/blob/main/task2_linux/q1.png
