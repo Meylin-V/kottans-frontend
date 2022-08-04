@@ -27,12 +27,12 @@ It is still difficult to say what I will use in the future, since I am just star
 
 ## Git Collaboration
 theory
-* [theory 1](sss) 
-* [theory 2](sss) 
+* [theory 1](https://github.com/Meylin-V/kottans-frontend/blob/main/task_git_collaboration/theory1.png) 
+* [theory 2](https://github.com/Meylin-V/kottans-frontend/blob/main/task_git_collaboration/theory2.png) 
 
 practice
-* [practice 1](sss) 
-* [practice 2](sss)
+* [practice 1](https://github.com/Meylin-V/kottans-frontend/blob/main/task_git_collaboration/practice1.png) 
+* [practice 2](https://github.com/Meylin-V/kottans-frontend/blob/main/task_git_collaboration/practice2.png)
 
 This part was enough new for me. Automated tests "Travis" are the most interesting of all. I haven't had to deal with this yet. I think that over time I will use everything that was in these materials and, perhaps, even more.
 
