@@ -37,3 +37,13 @@ practice
 This part was enough new for me. Automated tests "Travis" are the most interesting of all. I haven't had to deal with this yet. I think that over time I will use everything that was in these materials and, perhaps, even more.
 
 I really like the interactive tasks for studing git. This makes the material easier to digest.
+
+## Intro to HTML and CSS
+theory
+* [theory 1](https://github.com/Meylin-V/kottans-frontend/blob/main/task_html_css_intro/theory1.jpg) 
+* [theory 2](https://github.com/Meylin-V/kottans-frontend/blob/main/task_html_css_intro/theory2.jpg) 
+
+practice
+* [practice](https://github.com/Meylin-V/kottans-frontend/blob/main/task_html_css_intro/practice.jpg) 
+
+I used to study a little html and css, so there was not much new. Only adding fonts from google fonts or from a local folder. I think that I will use everything in the future.
