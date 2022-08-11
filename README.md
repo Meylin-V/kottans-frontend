@@ -49,5 +49,10 @@ practice
 I used to study a little html and css, so there was not much new. Only adding fonts from google fonts or from a local folder. I think that I will use everything in the future.
 
 ## Responsive Web Design
-* [flex-practice](https://github.com/Meylin-V/kottans-frontend/blob/main/task_html_css_intro/practice.jpg)
-* [grid-practice](https://github.com/Meylin-V/kottans-frontend/blob/main/task_html_css_intro/practice.jpg)
+* [flex-practice](https://github.com/Meylin-V/kottans-frontend/blob/main/task_responsive_web_design/practice-flex.jpg)
+* [grid-practice](https://github.com/Meylin-V/kottans-frontend/blob/main/task_responsive_web_design/practice-grid.jpg)
+
+As for me grids and flex are not simple themas, so interactive tasks really helped to understend it.
+I had met flex and grid before, I knew what it was for, but I had not tried to work with them, so it was essentially new for me.
+I also heard about responsive design, but did not know how it was achieved. In principle, it was possible to understand, but it is necessary to try in practice in order to better understand.
+Separately, I want to note that the video lessons are very good. Everything is explained clearly and the knowledge is well absorbed)
