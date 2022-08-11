@@ -47,3 +47,7 @@ practice
 * [practice](https://github.com/Meylin-V/kottans-frontend/blob/main/task_html_css_intro/practice.jpg) 
 
 I used to study a little html and css, so there was not much new. Only adding fonts from google fonts or from a local folder. I think that I will use everything in the future.
+
+## Responsive Web Design
+* [flex-practice](https://github.com/Meylin-V/kottans-frontend/blob/main/task_html_css_intro/practice.jpg)
+* [grid-practice](https://github.com/Meylin-V/kottans-frontend/blob/main/task_html_css_intro/practice.jpg)
