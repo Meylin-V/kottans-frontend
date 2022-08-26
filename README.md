@@ -56,3 +56,14 @@ As for me grids and flex are not simple themas, so interactive tasks really help
 I had met flex and grid before, I knew what it was for, but I had not tried to work with them, so it was essentially new for me.
 I also heard about responsive design, but did not know how it was achieved. In principle, it was possible to understand, but it is necessary to try in practice in order to better understand.
 Separately, I want to note that the video lessons are very good. Everything is explained clearly and the knowledge is well absorbed)
+
+## JS Basics
+* [theory](https://github.com/Meylin-V/kottans-frontend/blob/main/task_js_basics/theory.png)
+* [Basic Algorithm Scripting](https://github.com/Meylin-V/kottans-frontend/blob/main/task_js_basics/Basic%20Algorithm%20Scripting.png)
+* [Basic Data Structures](https://github.com/Meylin-V/kottans-frontend/blob/main/task_js_basics/Basic%20Data%20Structures.png)
+* [Basic JavaScript](https://github.com/Meylin-V/kottans-frontend/blob/main/task_js_basics/Basic%20JavaScript.png)
+* [ES6](https://github.com/Meylin-V/kottans-frontend/blob/main/task_js_basics/ES6.png)
+* [Functional Programming](https://github.com/Meylin-V/kottans-frontend/blob/main/task_js_basics/Functional%20Programming.png)
+* [Intermediate Algorithm Scripting](https://github.com/Meylin-V/kottans-frontend/blob/main/task_js_basics/Intermediate%20Algorithm%20Scripting.png)
+
+I studied the Java, so I have a general understanding of programming, most of the tasks were not difficult for me. It was interesting to transfer my knowledge of Java to a new programming language for me. I think I will continue to use everything. An interesting topic is prototypes.
